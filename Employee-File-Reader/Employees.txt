@@ -1,0 +1,21 @@
+Name: Jim
+Role: Salesman
+Age: 35
+Salary: 45000.00
+
+Final Salary: 56250.00
+
+Name: Pam
+Role: Receptionist
+Age: 26
+Salary: 20000.00
+
+Final Salary: 25000.00
+
+Name: Oscar
+Role: Accounting
+Age: 64
+Salary: 45433.00
+
+Final Salary: 45433.00
+
