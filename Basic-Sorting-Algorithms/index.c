@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <time.h>
-#include <time.h>
 #include <stdio.h>
 #include "sPrimes.h"
 #include "bubbleSort.h"
