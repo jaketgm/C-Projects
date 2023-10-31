@@ -1,0 +1,12 @@
+S-primes saved to sPrimes.txt
+SIZE: 20000
+Average Times (over 100 tests):
+Bubble Sort: 13.088 ms
+Insertion Sort: 12.992 ms
+Selection Sort: 12.917 ms
+Cocktail Sort: 12.932 ms
+Merge Sort: 12.967 ms
+Quick Sort: 12.967 ms
+Heap Sort: 12.939 ms
+Radix Sort: 13.063 ms
+Shell Sort: 12.962 ms
