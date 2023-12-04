@@ -1,0 +1,4 @@
+Preorder traversal of the constructed AVL tree after insertion is 
+30 -> 20 -> 10 -> 25 -> 40 -> 50 -> 
+Preorder traversal of the AVL tree after deletion is 
+40 -> 25 -> 10 -> 50 -> 
