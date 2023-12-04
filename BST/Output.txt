@@ -1,0 +1,46 @@
+Inorder traversal of the original tree: 
+(20) -> (30) -> (40) -> (50) -> (60) -> (70) -> (80) -> 
+
+
+Tree structure:
+   (50)   
+ /   \  
+ (30)   (70)  
+/ \ / \ 
+(20) (40) (60) (80) 
+
+Deleting 20
+Inorder traversal after deleting 20: 
+(30) -> (40) -> (50) -> (60) -> (70) -> (80) -> 
+
+
+Tree structure:
+   (50)   
+ /   \  
+ (30)   (70)  
+  \ / \ 
+    (40) (60) (80) 
+
+Deleting 30
+Inorder traversal after deleting 30: 
+(40) -> (50) -> (60) -> (70) -> (80) -> 
+
+
+Tree structure:
+   (50)   
+ /   \  
+ (40)   (70)  
+    / \ 
+        (60) (80) 
+
+Deleting 50
+Inorder traversal after deleting 50: 
+(40) -> (60) -> (70) -> (80) -> 
+
+
+Tree structure:
+   (60)   
+ /   \  
+ (40)   (70)  
+      \ 
+            (80) 
