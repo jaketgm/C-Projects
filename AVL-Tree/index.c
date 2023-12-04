@@ -1,6 +1,6 @@
 /******************************************************************************
  * @author Jake Brockbank
- * Sep 26th, 2023
+ * Dec 4th, 2023
  * This code showcases insertion and traversal operations. The balancing 
  * nature of the AVL tree is maintained throughout, ensuring that operations 
  * like search, insert, and delete can be performed efficiently.
